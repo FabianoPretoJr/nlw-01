@@ -45,7 +45,7 @@ Clone este repositório
 $ git clone https://github.com/FabianoPretoJr/nlw-01.git
 
 Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd nlw-01
 
 Vá para a pasta server
 $ cd server
@@ -60,10 +60,10 @@ O servidor inciará na porta:3333 - acesse http://localhost:3333
 
 #### Rodar frontend web
 Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/FabianoPretoJr/nlw-01.git
 
 Acesse a pasta do projeto no seu terminal/cmd
-$ cd nlw1
+$ cd nlw-01
 
 Vá para a pasta da aplicação Front End
 $ cd web
@@ -78,13 +78,13 @@ A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 #### Rodar o frontend mobile
 Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/FabianoPretoJr/nlw-01.git
 
 Acesse a pasta do projeto no seu terminal/cmd
-$ cd nlw1
+$ cd nlw-01
 
 Vá para a pasta da aplicação Front End
-$ cd web
+$ cd mobile
 
 Instale as dependências
 $ npm install
